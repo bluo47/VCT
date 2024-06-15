@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Benjamin\\Documents\\GitHub Repos\\VCT\\VCTApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\VCTApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\VCTApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Benjamin\\Documents\\GitHub Repos\\VCT\\VCTApp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Benjamin\\Documents\\GitHub Repos\\VCT\\VCTApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.VCTApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.VCTApp.props",
+      "PackagePath": "build\\VCTApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.VCTApp.props",
+      "PackagePath": "buildMultiTargeting\\VCTApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.VCTApp.props",
+      "PackagePath": "buildTransitive\\VCTApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
